@@ -1,1 +1,41 @@
-Utilizando o Github pela primeira vez...
+🔧 Comandos e Conceitos do Linux
+apt / apt-get – Instalam, atualizam e removem programas pelo terminal.
+
+sudo – Dá permissão de administrador para executar comandos importantes.
+
+root – É o superusuário com controle total do sistema.
+
+Case sensitive – Distingue letras maiúsculas e minúsculas (ex: Arquivo.txt ≠ arquivo.txt).
+
+📦 Principais comandos apt
+sudo apt update – Atualiza a lista de programas.
+
+sudo apt upgrade – Atualiza os programas instalados.
+
+sudo apt full-upgrade / dist-upgrade – Atualiza tudo, até trocando/removendo pacotes.
+
+sudo apt autoremove – Remove pacotes não usados.
+
+sudo apt clean / autoclean – Limpa arquivos de instalação baixados.
+
+💻 Programas comuns
+vim – Editor de texto no terminal.
+
+git – Controle de versão para código.
+
+python3 – Linguagem de programação.
+
+pip – Instala bibliotecas Python.
+
+cloc – Conta linhas de código.
+
+sudo apt install – Comando para instalar programas.
+
+🖥️ Ambientes e Terminais
+Terminal vs. Modo gráfico – Terminal é mais rápido, leve e poderoso para quem conhece.
+
+WSL – Permite usar Linux dentro do Windows.
+
+Git Bash (Windows) – Terminal com comandos Linux e Git no Windows.
+
+TTY – Sessões de terminal no Linux (acesso via Ctrl+Alt+F1 a F7).
